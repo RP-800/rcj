@@ -3,8 +3,8 @@
 
 title: MUNAKO Hercules
 description: MUNAKO Herculesのブログです。RCJの事とか色々書いていく予定です。 # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/rcj" # the subpath of your site, e.g. /blog
+url: "https://nakamoto800.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
