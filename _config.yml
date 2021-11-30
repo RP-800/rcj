@@ -1,0 +1,63 @@
+#-------------------------------
+# General Site Settings
+
+title: MUNAKO Hercules
+description: MUNAKO Herculesのブログです。RCJの事とか色々書いていく予定です。 # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+#-------------------------------
+# About Section
+author-name: 小熊猫 / Nakamoto
+author-avatar: icon.jpg
+
+
+#-------------------------------
+# Contact links
+twitter(Nakamoto): https://twitter.com/Nakamoto_RCJ # Add your Facebook handle
+github(Nakamoto): https://github.com/nakamoto800
+twitter(kiyo) : https://twitter.com/robocup_kiyo
+
+
+#-------------------------------
+# Instagram Feed
+instafeed: false # To enable the instafeed, use the value true. To turn off use the value false.
+
+
+#-------------------------------
+# Google Analytics
+google-analytics: # Add your identifier. For example UA-99631805-1.
+
+
+#-------------------------------
+# Build settings
+markdown: kramdown
+permalink: ':title/'
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jelyll-feed
+
+paginate: 7
+paginate_path: "/page/:num"
+
+include:
+  - _pages
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+timezone: Asia/Tokyo
+
+#-------------------------------
+# Exclude from processing.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
