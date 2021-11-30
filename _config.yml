@@ -15,9 +15,9 @@ author-avatar: icon.jpg
 
 #-------------------------------
 # Contact links
-twitter(Nakamoto): https://twitter.com/Nakamoto_RCJ # Add your Facebook handle
-github(Nakamoto): https://github.com/nakamoto800
-twitter(kiyo) : https://twitter.com/robocup_kiyo
+twitter: https://twitter.com/Nakamoto_RCJ # Add your Facebook handle
+github: https://github.com/nakamoto800
+twitter : https://twitter.com/robocup_kiyo
 
 
 #-------------------------------
