@@ -3,8 +3,8 @@
 
 title: 宗高ヘラクレス
 description: 宗高ヘラクレスの公式(非公式)ブログです。 # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://nakamoto800.github.io/rcj" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/rcj" # the subpath of your site, e.g. /blog
+url: "https://nakamoto800.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
