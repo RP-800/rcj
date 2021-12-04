@@ -1,15 +1,15 @@
 #-------------------------------
 # General Site Settings
 
-title: MUNAKO Hercules
-description: MUNAKO Herculesのブログです。RCJの事とか色々書いていく予定です。 # this means to ignore newlines until "baseurl:"
+title: 宗高ヘラクレス
+description: 宗高ヘラクレスの公式(非公式)ブログです。 # this means to ignore newlines until "baseurl:"
 baseurl: "/rcj" # the subpath of your site, e.g. /blog
 url: "https://nakamoto800.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 #-------------------------------
 # About Section
-author-name: 小熊猫 / Nakamoto
+author-name: ヘラクレスの中の人
 author-avatar: icon.jpg
 
 
@@ -35,8 +35,6 @@ markdown: kramdown
 permalink: ':title/'
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
-  - jelyll-feed
 
 paginate: 7
 paginate_path: "/page/:num"
