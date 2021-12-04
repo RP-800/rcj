@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: 897b279a-6a44-40f7-9459-d3fe7b226536.jpg
+image: logo.jpg
 permalink: /about/
 ---
 ## 自己紹介
