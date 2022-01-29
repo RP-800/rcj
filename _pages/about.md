@@ -7,7 +7,7 @@ permalink: /about/
 # 自己紹介
 私たちはヘラクレスとしてロボカップジュニアのサッカーリーグに参加しています。このブログでは私たちのロボットに関する技術公開等を行っていきます。よろしくおねがいします。
 
-https://github.com/nakamoto800/Hercules_2022
+https://github.com/RP-800/Hercules_2022.git
 
 # 経歴
 今までの大会成績等です。
