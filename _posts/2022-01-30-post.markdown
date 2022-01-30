@@ -27,12 +27,14 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 
 ## 開発環境紹介
 ### ハードウェア
+| :-: | :-: |
 | 機体設計 | Fusion 360 |
 | 回路設計 | KiCad 5 |
 | 切削 | ORIGINALMIND KitMill CL200 |
 | 3Dプリント | FLASHFORGE Adventurer3 Lite |
 
 ### ソフトウェア
+| :-: | :-: |
 | エディタ | Visual Studio Code |
 | 統合開発環境 | Arduino IDE, PlatformIO IDE(VSCodeの拡張機能) |
 | コード管理 | GitHub |
