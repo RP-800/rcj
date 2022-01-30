@@ -60,4 +60,4 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 
 最後にロボットの3Dデータを載せておきます。
 
-<iframe src="https://myhub.autodesk360.com/ue2c11e14/shares/public/SH56a43QTfd62c1cd9685619bc46de13621b?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<center><iframe src="https://myhub.autodesk360.com/ue2c11e14/shares/public/SH56a43QTfd62c1cd9685619bc46de13621b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe></center>
