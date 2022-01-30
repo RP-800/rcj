@@ -57,3 +57,7 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 学年末考査後にロボット紹介記事をあげます。あと、実はしれっとヘラクレスのソフトウェアリポジトリ(何故かKiCadプロジェクトと混合している...)が公開状態になっています。興味ある方は覗きに来てみてください。ライセンスはMITにしてます。ただし使用される際は自己責任でお願いします。責任は一切負いませんし、負えません。また、ルールには十分ご注意を。かなり濃厚なイタリアン()に仕上がっているので、解凍方法、食べ方についての質問はヘラクレスメンバーのツイッターかこのブログのコメント欄までお願いします。
 
 [ヘラクレス2022シーズンのソフトウェア](https://github.com/RP-800/Hercules_2022)
+
+最後にロボットの3Dデータを載せておきます。
+
+<iframe src="https://myhub.autodesk360.com/ue2c11e14/shares/public/SH56a43QTfd62c1cd9685619bc46de13621b?mode=embed" width="800" height="600" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
