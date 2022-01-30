@@ -47,7 +47,7 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 | 目的 | 手段 |
 | ---- | ---- |
 | エディタ | Visual Studio Code |
-| 統合開発環境 | Arduino IDE, PlatformIO IDE(VSCodeの拡張機能) |
+| 統合開発環境 | Arduino IDE<br>PlatformIO IDE(VSCodeの拡張機能) |
 | コード管理 | GitHub |
 
 この他にはマイコン間通信だったり、バッテリーの各セル電圧を監視する装置(大きすぎてロボットには搭載できませんでした)を作ったりしてました。
