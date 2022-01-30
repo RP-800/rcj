@@ -7,7 +7,7 @@ tags:   [RCJ]
 ---
 ## 九州ブロック優勝しました
 
-<blockquote class="twitter-tweet" date-theme="dark"><p lang="ja" dir="ltr">九州ブロック優勝しました！<br>全国大会でもよろしくおねがいします！ <a href="https://t.co/tuIBvxy5DG">pic.twitter.com/tuIBvxy5DG</a></p>&mdash; kiyo (@robocup_kiyo) <a href="https://twitter.com/robocup_kiyo/status/1485166682515849216?ref_src=twsrc%5Etfw">January 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-theme="dark"><p lang="ja" dir="ltr">九州ブロック優勝しました！<br>全国大会でもよろしくおねがいします！ <a href="https://t.co/tuIBvxy5DG">pic.twitter.com/tuIBvxy5DG</a></p>&mdash; kiyo (@robocup_kiyo) <a href="https://twitter.com/robocup_kiyo/status/1485166682515849216?ref_src=twsrc%5Etfw">January 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 全国大会ではよろしくおねがいします。
 
