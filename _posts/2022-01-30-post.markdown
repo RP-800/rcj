@@ -5,28 +5,35 @@ date:   2022-01-30
 image:  2022-01-30.jfif
 tags:   [RCJ]
 ---
-# 九州ブロック優勝しました
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">九州ブロック優勝しました！<br>全国大会でもよろしくおねがいします！ <a href="https://t.co/tuIBvxy5DG">pic.twitter.com/tuIBvxy5DG</a></p>&mdash; kiyo (@robocup_kiyo) <a href="https://twitter.com/robocup_kiyo/status/1485166682515849216?ref_src=twsrc%5Etfw">January 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+## 九州ブロック優勝しました
+
+<blockquote class="twitter-tweet" date-theme="dark"><p lang="ja" dir="ltr">九州ブロック優勝しました！<br>全国大会でもよろしくおねがいします！ <a href="https://t.co/tuIBvxy5DG">pic.twitter.com/tuIBvxy5DG</a></p>&mdash; kiyo (@robocup_kiyo) <a href="https://twitter.com/robocup_kiyo/status/1485166682515849216?ref_src=twsrc%5Etfw">January 23, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 全国大会ではよろしくおねがいします。
 
-# 今日の主題
+## 今日の主題
+
 RCAPが終わったあとこのブログを開設し、モチベーションが上がらなかったり、スケジュールが詰まっていたりと中々執筆できていませんでしたが、ブロック大会も終わり時間的にも精神的にも余裕が出てきましたので、この辺りで今シーズンの私たちの開発状況だったり、取り組んだことに関してまとめたいと思います。第一回目の今回は、ソフト、ハード別に取り組んできたことを大雑把に振り返っていきます。
 
-## ハードウェア編
+### ハードウェア編
+
 ハードウェアで今シーズンやったことはこんな感じです。
+
 - オムニホイール
   - 小型化(低重心化を狙いました)
   - 雌ねじ(モーターに取り付けたまま締め直しが可能に)
 - 発注基板
 - メインボードをTJ3BからTeensy 4.0へ変更(もう1台はTJ3Bです)
 
-## ソフトウェア編
+### ソフトウェア編
+
 ソフトウェア系はこんなことをやってました。
+
 - 全方位カメラの画像を基にしたライン処理
 
-## 開発環境紹介
-### ハードウェア
+### 開発環境紹介
+
+#### ハードウェア
 
 | 目的 | 手段 |
 | ---- | ---- |
@@ -35,7 +42,7 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 | 切削 | ORIGINALMIND KitMill CL200 |
 | 3Dプリント | FLASHFORGE Adventurer3 Lite |
 
-### ソフトウェア
+#### ソフトウェア
 
 | 目的 | 手段 |
 | ---- | ---- |
@@ -45,7 +52,8 @@ RCAPが終わったあとこのブログを開設し、モチベーションが�
 
 この他にはマイコン間通信だったり、バッテリーの各セル電圧を監視する装置(大きすぎてロボットには搭載できませんでした)を作ったりしてました。
 
-# おわりに
+## おわりに
+
 学年末考査後にロボット紹介記事をあげます。あと、実はしれっとヘラクレスのソフトウェアリポジトリ(何故かKiCadプロジェクトと混合している...)が公開状態になっています。興味ある方は覗きに来てみてください。ライセンスはMITにしてます。ただし使用される際は自己責任でお願いします。責任は一切負いませんし、負えません。また、ルールには十分ご注意を。かなり濃厚なイタリアン()に仕上がっているので、解凍方法、食べ方についての質問はヘラクレスメンバーのツイッターかこのブログのコメント欄までお願いします。
 
 [ヘラクレス2022シーズンのソフトウェア](https://github.com/RP-800/Hercules_2022)
